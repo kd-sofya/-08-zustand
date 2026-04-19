@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     title: "NoteHub — Твій розумний менеджер нотаток",
     description:
       "Зберігайте свої ідеї, завдання та думки в одному зручному місці з NoteHub.",
-    url: "https://note-hub-five.vercel.app", 
+    url: "https://08-zustand-mr9xdthyb-sofia156.vercel.app",
     images: [
       {
         url: "https://ac.goit.global/fullstack/react/notehub-og-meta.jpg",
